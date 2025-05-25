@@ -10,13 +10,13 @@ html,body{
 }
 @font-face {
     font-family: GILROY-EXTRABOLD;
-    src: url(GILROY-EXTRABOLD.ttf);}
+    src: url("/GILROY-EXTRABOLD.ttf");}
 @font-face {
     font-family: GILROY-LIGHT;
-    src: url(/GILROY-LIGHT.ttf);}
+    src: url("/GILROY-LIGHT.ttf");}
 @font-face {
     font-family: Cinzel;
-    src: url(/CinzelDecorative-Regular.ttf);}
+    src: url("/CinzelDecorative-Regular.ttf");}
 
 #landing-page{
     height: 100vh;
